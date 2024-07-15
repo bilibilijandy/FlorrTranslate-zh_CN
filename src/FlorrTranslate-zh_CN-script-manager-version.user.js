@@ -124,6 +124,7 @@
         'A mysterious entity': '未知生物',
         'Continue': '继续',
         'GAME OVER': '游戏结束',
+        'Close': '关闭页面',
 
 
 
@@ -432,7 +433,7 @@
 
 
         'Rice': '米',
-        'Spawns instantly, but not very strong.': '生成速度非常快，但是很脆弱。',
+        'Spawns very quickly, but not very strong.': '生成速度非常快，但是很脆弱。',
 
 
 
@@ -541,6 +542,19 @@
 
         'Yucca': '丝兰',
         'Heals your flower but only while in the defensive position.': '花朵处于防守形态时才能产生治疗效果。',
+
+
+
+        'Talisman': '闪避护符',
+        'Talisman of Evasion': '闪避护符',
+        'A necklace that allows the wearer to anticipate enemy attacks.': '一条项链，可以让佩戴者预测敌人的攻击。',
+
+
+
+        'Glass': '玻璃',
+        'Phases through enemies.': '这个东西大到能让其他花瓣围着它转。',
+        'Cannot damage enemies more often than a certain interval.': '不能在一定间隔内更频繁地伤害敌人',
+        'Interval': '间隔',
 
 
 
@@ -950,15 +964,6 @@
         ' (Super)': '（至臻）',
 
 
-        //jandy加
-        'Talisman': '闪避护符',
-        'Talisman of Evasion': '闪避护符',
-        'A necklace that allows the wearer to anticipate enemy attacks.': '一条项链，可以让佩戴者预测敌人的攻击。',
-
-        'Glass': '玻璃',
-        'Phases through enemies.': '这个东西大到能让其他花瓣围着它转。',
-        'Cannot damage enemies more often than a certain interval.': '不能在一定间隔内更频繁地伤害敌人',
-        'Interval': '间隔',
 
     }
 

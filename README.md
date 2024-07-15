@@ -11,6 +11,7 @@
 <br>
 
 # 注意事项
+- 控制台版本停止更新，使用它一定会使你的账号被封禁，你已经被警告过了。
 - 若你使用激进的脚本，你的账号将有极大的概率被封禁。你已经被警告过了。
 - 脚本管理器运行版本需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/) 插件。
 - 会对性能产生轻微影响。
@@ -21,6 +22,7 @@
 
 # 使用方法
 ### 脚本管理器运行版本
+##### 控制台版本停止更新，使用它一定会使你的账号被封禁，你已经被警告过了。
 1. 点击[链接](https://raw.githubusercontent.com/FlorrModsTeam/FlorrTranslate-zh_CN/main/src/FlorrTranslate-zh_CN-script-manager-version.user.js)。
 2. 在脚本管理器弹出的页面中点击安装即可。
 
@@ -55,6 +57,8 @@ florr修仙传 (汉化组成员)
 [squid233](https://github.com/squid233)
 
 Lucker
+
+[jandy](https://github.com/bilibilijandy)
 
 
 # 隐私声明
