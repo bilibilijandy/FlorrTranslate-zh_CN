@@ -79,6 +79,7 @@
         'Hide common drops': '隐藏常见掉落',
         'Hide unusual drops': '隐藏少见掉落',
         'Screen shake': '画面抖动',
+        'Auto-join squads': '自动加入组队'
 
         'Credits': '荣誉墙',
         'Special Thanks': '特别鸣谢',
@@ -113,6 +114,12 @@
         'minutes': '分钟',
         'second': '秒',
         'seconds': '秒',
+
+
+
+        //用户界面-成就
+        'Achievements': '成就',
+        'Done': '完成',
 
 
 
@@ -561,17 +568,23 @@
 
 
         //用户界面-技能
+        /*
+        2024/7/15——要改改啦
         'Skills': '技能',
         'SP': '技能点',
         'Acquire more SP by ': '您可以通过',
         'absorbing': '吸收',
         ' petals to gain levels': '花瓣来提升等级，从而获得技能点',
-        'HOLD to upgrade': '长按升级',
-        'Reset': '重置技能',
         'This will refund all your SP points.': '将返还您全部技能点。',
         'WARNING:': '警告',
         'It will cost you 5 levels.': '这将使您降低5级。',
         'Cancel': '取消',
+        */
+        'Talents': '技能树',
+        'HOLD to upgrade': '长按升级',
+        'Reset': '重置技能',
+        'You can acquire more TP by leveling up': '您可以通过升级获得更多技能点',
+        'TP': '技能点',
 
 
 
