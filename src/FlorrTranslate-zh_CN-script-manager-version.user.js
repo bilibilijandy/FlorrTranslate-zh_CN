@@ -2,8 +2,8 @@
 // @name            Florr.io 汉化
 // @namespace       A florr.io userjs
 // @description     全面汉化 Florr.io
-// @version         1.1.1
-// @author          -lexiyvv, flo修仙传, Tinhone, squid233, Lucker
+// @version         1.1.3
+// @author          -lexiyvv, flo修仙传, Tinhone, squid233, Lucker, jandy
 // @license         GPL-3.0
 // @match           *://florr.io/*
 // @grant           GM_setValue
@@ -12,6 +12,8 @@
 // @compatible      edge V50+
 // @compatible      chrome V50+
 // @icon            data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAB2lBMVEUAAADTvUbTvUbTvUbTvUbTvUbTvUbTvUbTvUbTvUbTvUbTvUbTvUbTvUbSvEbTvUbSvUbTvUbSvEbTvUbTvUbTvUbTvUbTvUbTvUbTvUbTvUbTvUbSvEbTvUbSvEbUvkfWwEjYwUnVv0fex03p0lXy21r331754V/y2lrp0lTdx03UvkbgyU/y21v95WL/6GP/52P95WHgyU7XwUns1Vfs1VbXwUjZwkrYwkn03mLm0mH85WLm0mL03mHfyU7742HYzZHU0cLhz2z/6GLj0m7W08TUyY3742DVvkfp1WHe28r8/f/Yz5f85GD85F/Rx4/8/P/j4NDu2WX85WHTvUb/6mTNu1erqqX7/P7c1rT332D13l6Ykm/n6Oru7ejl02/o0lTSvEbAr1A0MzBoaGp+eFvz3F/03WBUTzJPT1FvbmvHtlfx2lrOu1UsKyQaGx1eWDL54mFgWTQbHB4qKCLNu1T2313q1V1GQy0bHCCMgUH/6WSjlUhcVjPbx1j75WL03mDo0VT+6WT65GL+5mPdxk21pEaqmkL03V/75GLCsEuQgjj34GDjzliEeDNuYyuGeTSLfjZ2ay5zaC3Pu1D/6GT85mPgy1fDsUy+rErSvlL34WDr1Fb////IkFdGAAAAH3RSTlMAAAEHDAo0api0wQ9buO7+/j35BmjnefVpPua37Zf+dLW/BwAAAAFiS0dEnQa78rEAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfkAQgDJRPX3t0LAAACLUlEQVQ4y4VTB3cSQRC+pYYWDSkkgeQOkuMOCLdrLmAUxULU2Mt59t4LllhIuVQ1lth7y491mV1CAH3Oe/fm7cx3U78RhFWCbHaHw25Dwt8EIafL3eTxej1NbpcToQa3zx9oXiNK0agkrm0O+H21EGRrCQRjff1yXFHiaiIZCwZaVmdCrW3tqYG0hjGhgvE6eTDV3taKqv6OkD6kgZcJ1jLZUEcFgVBnaH2a1Ik8HOpkdSDU1a2ncT0Ay9nuLkAgXzg1xGwcxXUmFfahcgB/cEAD+4aNubLObdoMiFw+6KchkDMcYwm2bN22vUBIYWTHzl3wgzoadlKAK9LHAuzes3fffkIOHDx0+Aj8YSQjLgpwH+2Hp3ns+ImTpwg5febsufMFqOLCRTcF9IgyA1y6fOXqNYyv37h567YJMYtiDxLsHikOcPPO3Xv3xwgZe/Dw0WMGKEkeu+DwRhXW3PjE5JRFiDU1OTHOGlV0r6MKIGR6ZrYMmJ2Z5gYArKQgZG6e6fk5PjBIQYtUK3PGNYoXSdtMNCyCywK06YokDW7QnpSh1tNn7GkswqDoqNkgiPX8xUvLfLX0+k0lA4yaLmtQY5a3795/+Pjp8xcegC0L1p1hpq/fvv/4+eu3xV7LbN1AmCxPQizT5G6iSpwwQLlhub4DdYVyjLTZTA1pjWWpSlpO+7xqANnoZxTzNbTnhzOaTBRLilIqLiyKdYdTOb1eUdJ1SextPL3/H++/z/8P7nmbVKvpGgUAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTktMTItMzFUMjA6MDg6NTMtMDg6MDCgb7H/AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTA4VDExOjM3OjE5LTA4OjAwqEgKbQAAAABJRU5ErkJggg==
+// @downloadURL https://update.greasyfork.org/scripts/462298/Florrio%20%E6%B1%89%E5%8C%96.user.js
+// @updateURL https://update.greasyfork.org/scripts/462298/Florrio%20%E6%B1%89%E5%8C%96.meta.js
 // ==/UserScript==
 
 (function () {
@@ -256,8 +258,8 @@
 
 
         'Clover': '幸运草',
-        'Increases your luck. Does not stack with itself.': '提高幸运值，单人不叠加，多人上限为 4.0 幸运值。',
-        'Higher luck increases the chances of finding rarer mobs.': '更高的幸运值可以提高更稀有的生物出现的概率。',
+        'Increases your luck.': '增加你的运气。',
+        'Luck is used by specific petals to change their stats.': '运气被特定的花瓣用来改变它们的属性。',
         'Luck: ': '幸运：',
 
 
@@ -390,7 +392,7 @@
 
 
         'Peas': '豌豆',
-        '4 in 1 deal.': '分 4 份，整体打出算 1 份。',
+        'lt goes poof.': '它发出砰的一声。',
 
 
 
@@ -946,6 +948,18 @@
         ' (Mythic)': '（神话）',
         ' (Ultra)': '（究极）',
         ' (Super)': '（至臻）',
+
+
+        //jandy加
+        'Talisman': '闪避护符',
+        'Talisman of Evasion': '闪避护符',
+        'A necklace that allows the wearer to anticipate enemy attacks.': '一条项链，可以让佩戴者预测敌人的攻击。',
+
+        'Glass': '玻璃',
+        'Phases through enemies.': '这个东西大到能让其他花瓣围着它转。',
+        'Cannot damage enemies more often than a certain interval.': '不能在一定间隔内更频繁地伤害敌人',
+        'Interval': '间隔',
+
     }
 
 
@@ -1033,11 +1047,11 @@
 
     //初始化
     for (const { prototype } of getCompatibleCanvas()) {
-        if (prototype.rewriteStrokeText == undefined) {
+        if (prototype.fyu8d71gf6kv == undefined) {
             if (openCustomReloadAnimation) { prototype.rewriteArc = prototype.arc }
-            prototype.rewriteStrokeText = prototype.strokeText;
-            prototype.rewriteFillText = prototype.fillText;
-            prototype.rewriteMeasureText = prototype.measureText;
+            prototype.fyu8d71gf6kv = prototype.strokeText;
+            prototype.fyu8d71gf6kf = prototype.fillText;
+            prototype.fyu8d71gf6kt = prototype.measureText;
         }
         else { break }
     }
@@ -1083,19 +1097,19 @@
             this.font = getApplicableFontStr(newFontSize);
             //alertTargetStr(text, "Flower Health");
             //consoleTextInfoLog(text, x, y);
-            return this.rewriteStrokeText(getTranslate(text), x, y);
+            return this.fyu8d71gf6kv(getTranslate(text), x, y);
         }
 
         //重写字符填充函数 | 它会随着 strokeText 自适应填充，不需要更多设置
         prototype.fillText = function (text, x, y) {
-            return this.rewriteFillText(getTranslate(text), x, y);
+            return this.fyu8d71gf6kf(getTranslate(text), x, y);
         }
 
         //重写字符尺寸度量函数
         prototype.measureText = function (text) {
             const newFontSize = getBlurFontSize(this.font);
             this.font = getApplicableFontStr(newFontSize);
-            return this.rewriteMeasureText(getTranslate(text));
+            return this.fyu8d71gf6kt(getTranslate(text));
         }
     }
 })();
