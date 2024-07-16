@@ -121,7 +121,15 @@
         //用户界面-成就
         'Achievements': '成就',
         'Done': '完成',
+        'Track': '跟踪',
+        'Track automatically': '自动跟踪',
 
+        //成就详细描述
+        'Consolation prize': '安慰奖',
+        'Fail to craft a petal and lose 4 petals.': '尝试合成花瓣并失去4个花瓣。',
+
+        'Tutorial': '教程',
+        'Complete the tutorial.': '完成教程',
 
 
 
@@ -568,7 +576,7 @@
 
 
 
-        //用户界面-技能
+        //用户界面-天赋
         /*
         2024/7/15——要改改啦
         'Skills': '技能',
@@ -581,11 +589,11 @@
         'It will cost you 5 levels.': '这将使您降低5级。',
         'Cancel': '取消',
         */
-        'Talents': '技能树',
+        'Talents': '天赋',
         'HOLD to upgrade': '长按升级',
-        'Reset': '重置技能',
-        'You can acquire more TP by leveling up': '您可以通过升级获得更多技能点',
-        'TP': '技能点',
+        'Reset': '重置天赋',
+        'You can acquire more TP by leveling up': '您可以通过升级获得更多天赋点',
+        'TP': '天赋点',
 
 
 
