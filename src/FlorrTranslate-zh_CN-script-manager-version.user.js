@@ -65,6 +65,7 @@
         'Changelog': '更新日志',
         'Join our Discord community!': '加入我们的Discord社区!',
         '加入我们的QQ群!': '加入我们的QQ群!',
+        'Connection lost, reconnecting..': '连接丢失，正在重新连接。。',
 
 
 
@@ -79,7 +80,7 @@
         'Hide common drops': '隐藏常见掉落',
         'Hide unusual drops': '隐藏少见掉落',
         'Screen shake': '画面抖动',
-        'Auto-join squads': '自动加入组队'
+        'Auto-join squads': '自动加入组队',
 
         'Credits': '荣誉墙',
         'Special Thanks': '特别鸣谢',
