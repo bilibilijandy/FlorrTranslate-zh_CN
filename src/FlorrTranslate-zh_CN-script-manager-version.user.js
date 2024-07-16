@@ -117,6 +117,23 @@
         'seconds': '秒',
 
 
+        //用户界面-教程
+        'Tutorial': '教程',
+
+        //教程特殊判定
+        'You must be in-game for this part of the tutorial, just click the big green READY button.': '对于本教程的这一部分，您必须在游戏中，只需单击绿色的开始按钮即可。',
+        'You must be alive to proceed in the tutorial.': '您必须活着才能继续学习教程。',
+
+        //教程详细内容
+        'You seem to be new here,let’s get you through the basics.': '你似乎新来到这里，让我们带你学习一些最基本的东西。',
+        'Click READY to start.': '按下READY开始。',
+
+        'Use your mouse to move. Your flower will automatically follow your cursor.': '用你的鼠标移动。你的花会顺着鼠标指针的方向移动。',
+        'You can change to keyboard movement in the settings menu.': '你也可以在设置中将操纵方式改为键盘移动。',
+        'Move a little bit to proceed.': '稍微移动一下以继续。',
+
+
+
 
         //用户界面-成就
         'Achievements': '成就',
