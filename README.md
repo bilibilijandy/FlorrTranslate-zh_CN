@@ -22,11 +22,11 @@
 
 # 使用方法
 ### 脚本管理器运行版本
-##### 控制台版本停止更新，使用它一定会使你的账号被封禁，你已经被警告过了。
 1. 点击[链接](https://raw.githubusercontent.com/FlorrModsTeam/FlorrTranslate-zh_CN/main/src/FlorrTranslate-zh_CN-script-manager-version.user.js)。
 2. 在脚本管理器弹出的页面中点击安装即可。
 
 ### 控制台运行版本
+##### 控制台版本停止更新，使用它一定会使你的账号被封禁，你已经被警告过了
 1. 点击[链接](https://raw.githubusercontent.com/FlorrModsTeam/FlorrTranslate-zh_CN/main/src/FlorrTranslate-zh_CN-browser-console-version.txt)，浏览器可能会显示文件内容或开始下载。
 2. 复制文件内容，粘贴到浏览器控制台并运行。
 
