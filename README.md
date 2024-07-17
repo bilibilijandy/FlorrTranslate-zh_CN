@@ -22,7 +22,7 @@
 
 # 使用方法
 ### 脚本管理器运行版本
-1. 点击[链接](https://raw.githubusercontent.com/FlorrModsTeam/FlorrTranslate-zh_CN/main/src/FlorrTranslate-zh_CN-script-manager-version.user.js)。
+1. 点击[链接](https://raw.githubusercontent.com/bilibilij和y/FlorrTranslate-zh_CN/main/src/FlorrTranslate-zh_CN-script-manager-version.user.js)。
 2. 在脚本管理器弹出的页面中点击安装即可。
 
 ### 控制台运行版本
